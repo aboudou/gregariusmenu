@@ -1,0 +1,8 @@
+"StartingGregariusMenu"="Démarrage de GregariusMenu";
+"GrowlGregariusNewUnread"="Gregarius - Nouveaux";
+"GrowlGregariusNewUnreadMessage"="%d non lus";
+"GrowlGregariusNewUnreadMessages"="%d non lus";
+"TooltipUnreadMessage"="%d non lus";
+"TooltipUnreadMessages"="%d non lus";
+"CheckGregarius"="Vérifiez l'URL de Gregarius";
+"ErrorChecking"="Erreur pendant la vérification";

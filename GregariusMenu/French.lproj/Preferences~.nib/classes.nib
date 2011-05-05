@@ -1,0 +1,23 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {saveChanges = id; setStartOnLogin = id; }; 
+            CLASS = PreferencesController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                autosnoozeButton = NSButton; 
+                beepNotificationButton = NSButton; 
+                gregariusURLField = NSTextField; 
+                growlNotificationButton = NSButton; 
+                newGregariusRPCButton = NSButton; 
+                nixonModeButton = NSButton; 
+                pollRateField = NSTextField; 
+                snoozeTimeField = NSTextField; 
+                startAtLoginButton = NSButton; 
+            }; 
+            SUPERCLASS = NSWindowController; 
+        }
+    ); 
+    IBVersion = 1; 
+}

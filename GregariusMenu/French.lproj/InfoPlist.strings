@@ -1,0 +1,4 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "GregariusMenu";
+NSHumanReadableCopyright = "© Arnaud Boudou, 2005-2009";

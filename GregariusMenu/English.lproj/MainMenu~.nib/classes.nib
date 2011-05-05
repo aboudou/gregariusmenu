@@ -1,0 +1,19 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {
+                checkNow = id; 
+                openAbout = id; 
+                openGregarius = id; 
+                openPreferences = id; 
+                snoozeNow = id; 
+            }; 
+            CLASS = GregariusMenuController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {theMenu = NSMenu; }; 
+            SUPERCLASS = NSObject; 
+        }
+    ); 
+    IBVersion = 1; 
+}
