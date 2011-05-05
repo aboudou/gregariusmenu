@@ -23,7 +23,7 @@
 
 #import "PreferencesController.h"
 
-NSString *CDCGregariusURLKey=@"Gregarius URL (with http://):";
+NSString *CDCGregariusURLKey=@"Gregarius URL (with http://):"; 
 NSString *CDCPollRate=@"Poll Rate";
 NSString *CDCNotifyBeep=@"Notify Beep";
 NSString *CDCNotifyGrowl=@"Notify Growl";
