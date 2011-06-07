@@ -296,7 +296,7 @@
 				COPY_PHASE_STRIP = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(FRAMEWORK_SEARCH_PATHS)",
-					"$(SRCROOT)",
+					"\"$(SRCROOT)\"",
 					"\"$(SRCROOT)/GregariusMenu\"",
 				);
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -320,7 +320,7 @@
 				COPY_PHASE_STRIP = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(FRAMEWORK_SEARCH_PATHS)",
-					"$(SRCROOT)",
+					"\"$(SRCROOT)\"",
 					"\"$(SRCROOT)/GregariusMenu\"",
 				);
 				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
