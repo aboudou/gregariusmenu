@@ -188,7 +188,7 @@
 		29B97313FDCFA39411CA2CEA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0420;
+				LastUpgradeCheck = 0430;
 			};
 			buildConfigurationList = B6570EFE08BF040F0074B3D0 /* Build configuration list for PBXProject "GregariusMenu" */;
 			compatibilityVersion = "Xcode 3.2";
