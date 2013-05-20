@@ -1,7 +1,7 @@
 GregariusMenu
 =============
 
-[Project's site](https://goddess-gate.com/dc2/index.php/pages/gregariusmenu.en)
+[Project's site](https://goddess-gate.com/projects/en/osx/gregariusmenu)
 
 Description
 -----------
