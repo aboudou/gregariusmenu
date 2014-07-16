@@ -29,10 +29,19 @@
       buildConfiguration = "Development">
       <Testables>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "8D1107260486CEB800E47090"
+            BuildableName = "GregariusMenu.app"
+            BlueprintName = "GregariusMenu"
+            ReferencedContainer = "container:GregariusMenu.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </TestAction>
    <LaunchAction
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
-      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.GDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       displayScaleIsEnabled = "NO"
       displayScale = "1.00"
       launchStyle = "0"
@@ -47,7 +56,7 @@
             BlueprintIdentifier = "8D1107260486CEB800E47090"
             BuildableName = "GregariusMenu.app"
             BlueprintName = "GregariusMenu"
-            ReferencedContainer = "container:../../../../Documents/XCode/MacOS X/GregariusMenu/GregariusMenu.xcodeproj">
+            ReferencedContainer = "container:GregariusMenu.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
